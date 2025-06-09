@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "api/quiz.js": {
-      "runtime": "edge@2"
+      "runtime": "nodejs@18.x"
     }
   },
   "routes": [
